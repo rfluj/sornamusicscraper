@@ -1,0 +1,10 @@
+setup.py
+SornaMusicScraper.egg-info/PKG-INFO
+SornaMusicScraper.egg-info/SOURCES.txt
+SornaMusicScraper.egg-info/dependency_links.txt
+SornaMusicScraper.egg-info/top_level.txt
+sornamusicscraper/__init__.py
+sornamusicscraper/bs.py
+sornamusicscraper/globals.py
+sornamusicscraper/req.py
+sornamusicscraper/sornamusicscraper.py

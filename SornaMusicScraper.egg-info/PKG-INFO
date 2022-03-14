@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: SornaMusicScraper
+Version: 0.1.0
+Summary: scrap https://sornamusic.ir/
+Home-page: UNKNOWN
+Author: rf_luj
+License: UNKNOWN
+Platform: UNKNOWN
+Requires: bs4
+Requires: requests
+
+UNKNOWN
+

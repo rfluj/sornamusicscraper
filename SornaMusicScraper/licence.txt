@@ -1,0 +1,5 @@
+The module is Open Source and no any restrictions are valid to this module.
+Please feel free to use it your side and improve if you want.
+
+Create by rf_luj.
+github : https://github.com/rfluj/sornamusicscraper
